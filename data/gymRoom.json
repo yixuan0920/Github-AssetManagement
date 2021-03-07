@@ -1,0 +1,20 @@
+[
+    {
+        "modal": "People",
+        "quantity": "5",
+        "image": "\/assets\/img\/b5f447bfcdc8bf5f401afac99a9cf5f9.png",
+        "isActive": true
+    },
+    {
+        "modal": "People",
+        "quantity": "2",
+        "image": "\/assets\/img\/b5f447bfcdc8bf5f401afac99a9cf5f9.png",
+        "isActive": true
+    },
+    {
+        "modal": "People",
+        "quantity": "3",
+        "image": "\/assets\/img\/b5f447bfcdc8bf5f401afac99a9cf5f9.png",
+        "isActive": true
+    }
+]

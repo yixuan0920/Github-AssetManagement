@@ -1,0 +1,20 @@
+[
+    {
+        "modal": "mathematic",
+        "quantity": "30",
+        "image": "\/assets\/img\/download.jpg",
+        "isActive": false
+    },
+    {
+        "modal": "Physics",
+        "quantity": "25",
+        "image": "\/assets\/img\/download.jpg",
+        "isActive": false
+    },
+    {
+        "modal": "Chinese Language",
+        "quantity": "36",
+        "image": "\/assets\/img\/download.jpg",
+        "isActive": true
+    }
+]

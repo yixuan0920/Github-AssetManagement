@@ -1,0 +1,14 @@
+[
+    {
+        "modal": "Tables1",
+        "quantity": "1",
+        "image": "\/assets\/img\/download.png",
+        "isActive": true
+    },
+    {
+        "modal": "Laptop",
+        "quantity": "18",
+        "image": "\/assets\/img\/download.png",
+        "isActive": true
+    }
+]

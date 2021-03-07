@@ -1,0 +1,26 @@
+[
+    {
+        "modal": "Meeting room 1",
+        "quantity": "2",
+        "image": "\/assets\/img\/16eb0115a58cfc3994a0c540f8e994e3.jpg",
+        "isActive": false
+    },
+    {
+        "modal": "Meeting room 2",
+        "quantity": "5",
+        "image": "\/assets\/img\/16eb0115a58cfc3994a0c540f8e994e3.jpg",
+        "isActive": true
+    },
+    {
+        "modal": "Meeting room 3",
+        "quantity": "3",
+        "image": "\/assets\/img\/16eb0115a58cfc3994a0c540f8e994e3.jpg",
+        "isActive": false
+    },
+    {
+        "modal": "Meeting room 1",
+        "quantity": "12",
+        "image": "\/assets\/img\/16eb0115a58cfc3994a0c540f8e994e3.jpg",
+        "isActive": true
+    }
+]

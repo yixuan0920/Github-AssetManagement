@@ -1,0 +1,32 @@
+[
+    {
+        "fullname": "John cenaeasd",
+        "username": "rockjohnson123asd",
+        "password": "$2y$10$mjkrOMSiRkURBfYqGTPvy.1aRuqZm9oJc4ck\/MZbIhAErrLOoM\/Wm",
+        "isAdmin": true
+    },
+    {
+        "fullname": "admin",
+        "username": "admin",
+        "password": "$2y$10$PXrAUHl4y1xLKJIcBJKmiORC70LiNa23zJxhSHYKSWDewR\/JoIKPS",
+        "isAdmin": true
+    },
+    {
+        "fullname": "employee",
+        "username": "employee",
+        "password": "$2y$10$TOpUJhsC97g7y9EKj36n3.KHhg6bH2fJbWn.hKjk3xCWUXu398tiK",
+        "isAdmin": false
+    },
+    {
+        "fullname": "admin123456",
+        "username": "admin123456",
+        "password": "$2y$10$1aeN1LNE8mWxaiC8.KPiNeKEFv.mcm9L2wsQ9fcALWoj90YbNUQLe",
+        "isAdmin": false
+    },
+    {
+        "fullname": "admin1212",
+        "username": "admin1212",
+        "password": "$2y$10$PJQWnwSBwjd\/61VWGuroleGZCZ1OssDwYBPbDTm0xzKNEBczBB.2W",
+        "isAdmin": false
+    }
+]
